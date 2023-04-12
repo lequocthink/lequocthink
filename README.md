@@ -4,7 +4,7 @@
 
 ## Hello, I'm Le Quoc Thinh, I'm an information technology student at Can Tho University, I have a passion for programming and want to become a full stack developer in the future.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lequocthinh-Genesis&show_icons=true&theme=gruvbox)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lequocthinh-Genesis&show_icons=true)
 
 ## Project
 
@@ -50,7 +50,7 @@
 
 ## Language
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lequocthinh-Genesis&langs_count=8&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lequocthinh-Genesis&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 <span> 
   <img src="https://img.shields.io/badge/-HTML5-cccccc?style=flat&logo=HTML5" height="30px"> &nbsp;
