@@ -4,53 +4,53 @@
 
 ## Hello, I'm Le Quoc Thinh, I'm an information technology student at Can Tho University, I have a passion for programming and want to become a full stack developer in the future.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lequocthinh-Genesis&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lequocthink&show_icons=true)
 
 ## Project
 
-<a href="https://github.com/lequocthinh-Genesis/Tour_Booking">
+<a href="https://github.com/lequocthink/Tour_Booking">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=lequocthinh-Genesis&repo=Tour_Booking&theme=merko" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=lequocthink&repo=Tour_Booking&theme=merko" />
 </a>
 
-<a href="https://github.com/lequocthinh-Genesis/CRUD_NodeJS">
+<a href="https://github.com/lequocthink/CRUD_NodeJS">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=lequocthinh-Genesis&repo=CRUD_NodeJS&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=lequocthink&repo=CRUD_NodeJS&theme=gruvbox" />
 </a>
 
-<a href="https://github.com/lequocthinh-Genesis/Tiktok_UI">
+<a href="https://github.com/lequocthink/Tiktok_UI">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=lequocthinh-Genesis&repo=Tiktok_UI&theme=dark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=lequocthink&repo=Tiktok_UI&theme=dark" />
 </a>
 
-<a href="https://github.com/lequocthinh-Genesis/Chat_App">
+<a href="https://github.com/lequocthink/Chat_App">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=lequocthinh-Genesis&repo=Chat_App&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=lequocthink&repo=Chat_App&theme=onedark" />
 </a>
 
-<a href="https://github.com/lequocthinh-Genesis/Pokemon_Game">
+<a href="https://github.com/lequocthink/Pokemon_Game">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=lequocthinh-Genesis&repo=Pokemon_Game&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=lequocthink&repo=Pokemon_Game&theme=cobalt" />
 </a>
 
-<a href="https://github.com/lequocthinh-Genesis/Paint_App">
+<a href="https://github.com/lequocthink/Paint_App">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=lequocthinh-Genesis&repo=Paint_App&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=lequocthink&repo=Paint_App&theme=synthwave" />
 </a>
 
-<a href="https://github.com/lequocthinh-Genesis/Image_Gallery">
+<a href="https://github.com/lequocthink/Image_Gallery">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=lequocthinh-Genesis&repo=Image_Gallery&theme=highcontrast" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=lequocthink&repo=Image_Gallery&theme=highcontrast" />
 </a>
 
-<a href="https://github.com/lequocthinh-Genesis/Robot_Model_Viewer">
+<a href="https://github.com/lequocthink/Robot_Model_Viewer">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=lequocthinh-Genesis&repo=Robot_Model_Viewer&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=lequocthink&repo=Robot_Model_Viewer&theme=dracula" />
 </a>
 
 ## Language
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lequocthinh-Genesis&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lequocthink&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 <span> 
   <img src="https://img.shields.io/badge/-HTML5-cccccc?style=flat&logo=HTML5" height="30px"> &nbsp;
