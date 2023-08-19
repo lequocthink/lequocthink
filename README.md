@@ -4,7 +4,7 @@
 
 ## Hello, I'm Le Quoc Thinh, I'm an information technology student at Can Tho University, I have a passion for programming and want to become a full stack developer in the future.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lequocthink&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lequocthink&show_icons=true&theme=tokyonight)
 
 ## Project
 
