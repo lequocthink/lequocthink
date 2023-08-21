@@ -50,7 +50,7 @@
 
 ## Language
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lequocthink&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lequocthink&langs_count=8&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <span> 
   <img src="https://img.shields.io/badge/-HTML5-cccccc?style=flat&logo=HTML5" height="30px"> &nbsp;
