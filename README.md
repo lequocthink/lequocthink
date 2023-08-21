@@ -8,19 +8,19 @@
 
 ## Project
 
-<a href="https://github.com/lequocthink/Tour_Booking">
+<a href="https://github.com/lequocthink/Blog_App">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=lequocthink&repo=Tour_Booking&theme=merko" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=lequocthink&repo=Blog_App&theme=merko" />
 </a>
 
-<a href="https://github.com/lequocthink/CRUD_NodeJS">
+<a href="https://github.com/lequocthink/Social_Network">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=lequocthink&repo=CRUD_NodeJS&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=lequocthink&repo=Social_Network&theme=gruvbox" />
 </a>
 
-<a href="https://github.com/lequocthink/Tiktok_UI">
+<a href="https://github.com/lequocthink/Tour_Review_App">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=lequocthink&repo=Tiktok_UI&theme=dark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=lequocthink&repo=Tour_Review_App&theme=dark" />
 </a>
 
 <a href="https://github.com/lequocthink/Chat_App">
@@ -46,6 +46,16 @@
 <a href="https://github.com/lequocthink/Robot_Model_Viewer">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=lequocthink&repo=Robot_Model_Viewer&theme=dracula" />
+</a>
+
+<a href="https://github.com/lequocthink/Tiktok_UI">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=lequocthink&repo=Tiktok_UI&theme=merko" />
+</a>
+
+<a href="https://github.com/lequocthink/CRUD_NodeJS">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=lequocthink&repo=CRUD_NodeJS&theme=gruvbox" />
 </a>
 
 ## Language
